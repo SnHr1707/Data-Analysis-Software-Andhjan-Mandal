@@ -11,7 +11,7 @@ setup(
     version="1.0",
     author="SnHr1707",
     executables=[
-        Executable(r"final.py location",
+        Executable(r"main.py location",
                    base=base,
                    icon=r"icon location",
                    shortcut_name="Andhjan Mandal Daya Analysis",
