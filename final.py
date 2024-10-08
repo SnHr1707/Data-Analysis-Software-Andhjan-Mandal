@@ -433,7 +433,7 @@ tk.Button(frame, text="Purpose of Donation", command=lambda: table_purpose_of_do
 plot_frame = tk.Frame(root)
 plot_frame.pack(fill=tk.BOTH, expand=True)
 
-copyright_label = tk.Label(root, text="© 2024 Sneh Soni & Dhrumil Sheth. All rights reserved.", font=("Arial", 10))
+copyright_label = tk.Label(root, text="© 2024 SnHr1707. All rights reserved.", font=("Arial", 10))
 copyright_label.pack(side="bottom", fill="x", pady=5)
 
 root.mainloop()

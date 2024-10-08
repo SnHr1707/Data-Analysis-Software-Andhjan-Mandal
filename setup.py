@@ -8,7 +8,7 @@ if (sys.platform == "win32"):
 setup(
     name="Andhjan Mandal Data Analysis",
     version="1.0",
-    author="Sneh Soni and Dhrumil Sheth",
+    author="SnHr1707",
     executables=[
         Executable(r"D:\NGO\Final\final.py",
                    base=base,
