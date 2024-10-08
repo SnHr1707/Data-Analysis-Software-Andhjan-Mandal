@@ -1,3 +1,4 @@
+# Run [python setup.py build] in your command prompt to build the software
 import sys
 from cx_Freeze import setup, Executable
 
@@ -10,9 +11,9 @@ setup(
     version="1.0",
     author="SnHr1707",
     executables=[
-        Executable(r"D:\NGO\Final\final.py",
+        Executable(r"final.py location",
                    base=base,
-                   icon=r"D:\NGO\Final\icon.ico",
+                   icon=r"icon location",
                    shortcut_name="Andhjan Mandal Daya Analysis",
                    shortcut_dir="DesktopFolder")
     ]
